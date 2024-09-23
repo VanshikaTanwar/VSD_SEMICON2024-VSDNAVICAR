@@ -279,6 +279,9 @@ Here, are some of the other Memorable Glimpse with the VSD Team at the SEMICON I
 ![ss1](https://github.com/user-attachments/assets/d9396582-7133-4298-94b9-810223f5772b)
 
 
+![ss8](https://github.com/user-attachments/assets/f9ce7a15-8b94-4f1e-91a7-2188514ff391)
+
+
 
 
 
@@ -286,6 +289,7 @@ https://github.com/user-attachments/assets/8b3b3826-3a0f-4d5a-9a5e-8d52eb4473f4
 
 
 
+![ss7](https://github.com/user-attachments/assets/d40fec5e-f184-4c6a-af6e-ec1532eb628d)
 
 
 
