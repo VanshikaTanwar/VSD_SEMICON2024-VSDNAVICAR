@@ -277,6 +277,13 @@ Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2
 
 Here, are some of the other Memorable Glimpse with the VSD Team at the SEMICON INDIA Event 2024 ....
 
+
+![ss10](https://github.com/user-attachments/assets/1b85d98c-5a2b-4295-a6a2-0910ad388781)
+
+
+![ss11](https://github.com/user-attachments/assets/4e7d4e2b-36e8-4892-bc9e-008614a46d30)
+
+
 ![ss5](https://github.com/user-attachments/assets/ed896e7c-7bae-47b4-b183-c874e5c34097)
 
 ![ss1](https://github.com/user-attachments/assets/d9396582-7133-4298-94b9-810223f5772b)
