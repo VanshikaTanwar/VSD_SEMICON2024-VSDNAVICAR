@@ -263,7 +263,7 @@ Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2
 
 ![IMG20240912132150](https://github.com/user-attachments/assets/d358d3f2-3167-49ab-8824-42b12744de06)
 
-![IMG20240912120804](https://github.com/user-attachments/assets/ea94b88e-7835-4951-bbc3-28b14ae6447f)
+
 
 ![ss9](https://github.com/user-attachments/assets/6ba0fccc-ce77-47c8-bf47-d4caae206981)
 
