@@ -265,6 +265,9 @@ Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2
 
 ![IMG20240912120804](https://github.com/user-attachments/assets/ea94b88e-7835-4951-bbc3-28b14ae6447f)
 
+![ss9](https://github.com/user-attachments/assets/6ba0fccc-ce77-47c8-bf47-d4caae206981)
+
+
 
 ![ss2](https://github.com/user-attachments/assets/a868a0bb-b81e-491e-9174-ae1d21c9332b)
 
@@ -280,6 +283,8 @@ Here, are some of the other Memorable Glimpse with the VSD Team at the SEMICON I
 
 
 ![ss8](https://github.com/user-attachments/assets/f9ce7a15-8b94-4f1e-91a7-2188514ff391)
+
+
 
 
 
