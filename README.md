@@ -93,12 +93,20 @@ Meet Our Navicar; it Concisely Addresses in many Areas , In hospitals, it can be
 
 VSDQUADRON RISCV MINI BOARD is the main brain/CPU of the NaviCar which is providing power and all the communication and flexibility for controlling the car with bluetooth, providing power to IR sensor and buzzer as well .
 
+#### Working of bluetooth module with Navi car 
 The UART (Universal Asynchronous Receiver-Transmitter) is a widely used serial communication protocol in embedded systems. In the NaviCar which is powered by VSDSquadron Mini, this protocol has been used to provide serial communication between the bluetooth module and vsdquadron mini board. Hence, it enables data transmission between devices by converting parallel data to serial form and vice versa. UART communication is constituted by two wire connections: the TX wire and the RX wire. The transmission of the data is done in an asynchronous manner which means that there is no clock signal to be used although there is a common baud rate which both devices must comply to. It is made sure that the use of the UART in the Bluetooth modules within the NaviCar enables the applications to safely control devices wirelessly.
 
-In an IR sensor, there is an IR LED that emits infrared light to detect obstacles. If there is an obstacle, the beam of light is reflected back to the receiving part of the sensor (photodiode), which creates the signal. If however there is no obstacle, the IR light does not in any way reflect back thus no signal is created. 
+#### Working of IR Sensor in coordination with buzzer in Navi car 
+In an IR sensor, there is an IR LED that emits infrared light to detect obstacles. If there is an obstacle, the beam of light is reflected back to the receiving part of the sensor (photodiode), which creates the signal. If however there is no obstacle, the IR light does not reflect in any way back thus no signal is created. 
 In NaviCar , as soon as obstacle is detected , the beam of the light will reflects back to the receiver which gets receiving signal  , and hence, it creates a signal which is sent to the buzzer , the buzzer starts buzzing indicating that there is any obstacle come in between , and when from the remote control or from our phone we take back or chnages the direction of NaviCar to the right or left or obstacle is removed in front of the car, buzzer automatically stops buzzing indicating that there, is no obstacle now, and the way is clean Navicar can go further. 
 
-Other than this, Motor driver has also been used in this for providing power and controlling motors of the tyres of the NaviCar. This Car can also be controlled with chargeable as well as with Rechargeable batteries dependinng as per the user requirements.
+
+[Demo Video of Navi Car operating with IR sensor and buzzer](https://drive.google.com/file/d/1NDaGgla6DcijSYU5_Aba3Z2x2KTRonxS/view?usp=drivesdk)
+
+
+#### Working of Motor Driver with Navi car 
+Other than this, Motor driver has also been used in this which is used for providing the power and controlling motors of the tyres of the NaviCar. This Car can also be controlled with non-rechargeable as well as with Rechargeable batteries dependinng as per the user requirements.
+While , on the other hand ,the car has been used and checked with both rechargeable and non-rechargeable batteries and it's working fine with both the batteries.
 
 # Circuit Connections with VSDQUADRON RISCV Mini Board with all the components  
 
